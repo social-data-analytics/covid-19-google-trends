@@ -1,0 +1,5 @@
+pandas
+pymongo
+playwright
+python_ghost_cursor
+requests
